@@ -6,7 +6,7 @@ This Progressive Web Application (PWA) allows users to save text that will later
 
 # Usage
 
-To use this application, navitgate to the link below and type in your text in the console.
+To use this application, navitgate to the link below and click install. You can then save text with or without internet access that will be rendered once internet connection is reestablished.
 
 # Application Link
 
